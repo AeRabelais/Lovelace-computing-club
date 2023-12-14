@@ -1,7 +1,7 @@
-When: Thursdays @ 1pm CST or Sunday @ 2pm CST
-Where: Lovelace Computing Club Discord
+**When**: Thursdays @ 1pm CST or Sunday @ 2pm CST
+**Where**: Lovelace Computing Club Discord
 
-Plan-of-Action:
+## Plan-of-Action:
 1. General Overview of Artificial Intelligence 
 2. Need-to-Know Concepts for Machine Learning 
 3. Cross-Validation
