@@ -1,4 +1,5 @@
 **When**: Thursdays @ 1pm CST or Sunday @ 2pm CST
+
 **Where**: Lovelace Computing Club Discord
 
 ## Plan-of-Action:
